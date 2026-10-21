@@ -1,0 +1,50 @@
+==================================================
+1. COMPILER VS. INTERPRETER
+==================================================
+
+COMPILER:
+- Translates the entire code at once before execution.
+- Shows all errors together before the program runs.
+- Execution speed: Very fast.
+- Generates an executable file (e.g., .exe).
+- Examples: C, C++, Rust, Go.
+
+INTERPRETER:
+- Translates and runs code line-by-line in real time.
+- Stops immediately on the line where an error occurs.
+- Execution speed: Slower.
+- Does not generate an executable file.
+- Examples: Python, JavaScript, Ruby.
+
+
+==================================================
+2. OBJECT-ORIENTED PROGRAMMING (OOP)
+==================================================
+
+WHAT IS OOP?
+A programming approach based on real-world concepts,
+organizing code around "Objects" (data + methods) 
+instead of just functions and logic.
+
+KEY CONCEPTS:
+- Class: Blueprint or template (e.g., Car design).
+- Object: Real instance created from the class (e.g., A real car).
+
+FOUR PILLARS OF OOP:
+
+1. Encapsulation:
+   - Bundling data and methods into a single class.
+   - Hides internal data from direct outside access.
+
+2. Abstraction:
+   - Hiding complex background details and showing only essentials.
+   - Example: Pressing a button to start a car without knowing the wiring.
+
+3. Inheritance:
+   - A child class inherits properties and methods from a parent class.
+   - Promotes code reusability (e.g., Vehicle -> Car).
+
+4. Polymorphism:
+   - "Many forms" - one interface used for different types.
+   - Example: A single .sound() method produces "Bark" for a dog and "Meow" for a cat.
+==================================================
